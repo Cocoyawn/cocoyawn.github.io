@@ -25,10 +25,10 @@ author:
   avatar           : "profile.png"
   name             : "Yangcheng Yu"
   pronouns         : "he/him"
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Cease to struggle and you cease to live"
   location         : "Beijing, China"
   employer         : "Tsinghua University"
-  uri              : # URL
+  uri              : "cocoyawn.github.io"# URL
   email            : "yuyc23@mails.tsinghua.edu.cn" 
 
   # Academic websites
